@@ -1,7 +1,7 @@
 const inquirer = require('inquirer');
 const {type} = require('os');
-const createHtml = require('./src/create-HTML');
-const {writeFile, copyFile} = require('./utils/generateHTML.js');
+const createHtml = require('./src/createHTML');
+const {writeFile, copyFile} = require('./utils/HTML.js');
 const Employee = require('./library/Employee');
 const Engineer = require('./library/Engineer');
 const Intern = require('./library/Intern');
