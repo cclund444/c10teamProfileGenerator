@@ -17,7 +17,7 @@ Code Used:
 
 * Node.js
 * CSS
-* HTML
+*json
 
 Technolgies: 
 
