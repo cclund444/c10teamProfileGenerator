@@ -30,5 +30,6 @@ References:
 *Walkthrough Video:
 
 *GitHub repository: 
+https://cclund444.github.io/c10teamProfileGenerator/
 
 *HTML link: 
