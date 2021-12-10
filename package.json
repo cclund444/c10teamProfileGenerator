@@ -1,27 +1,27 @@
 {
-    "name": "employee-profile-generator",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "directories": {
-      "lib": "lib"
-    },
-    "dependencies": {
-      "inquirer": "^8.1.5",
-      "jest": "^27.2.4"
-    },
-    "devDependencies": {},
-    "scripts": {
-      "test": "jest"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/cclund444/c10teamProfileGenerator"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/cclund444/c10teamProfileGenerator/issues"
-    },
-    "homepage": "https://cclund444.github.io/c10teamProfileGenerator/"
-  }
+  "name": "employee-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.5",
+    "jest": "^27.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cclund444/c10teamProfileGenerator"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cclund444/c10teamProfileGenerator/issues"
+  },
+  "homepage": "https://cclund444.github.io/c10teamProfileGenerator/"
+}
