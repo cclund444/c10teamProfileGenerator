@@ -28,8 +28,9 @@ Technolgies:
 References:
 
 *Walkthrough Video:
+<img src:" "/>
 
 *GitHub repository: 
+https://github.com/cclund444/c10teamProfileGenerator
+    (Readme:)
 https://cclund444.github.io/c10teamProfileGenerator/
-
-*HTML link: 
